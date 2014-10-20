@@ -3,6 +3,6 @@
   <string name="agree">Godkänn</string>
   <string name="app_label">Nätverksplats</string>
   <string name="disagree">Neka</string>
-  <string name="location_warning_message">"Allow AutoNavi's location service to collect anonymous location data. Some data may be stored on your device, and collection may occur even when no apps are running. Applicable data usage fees may apply during this process."</string>
+  <string name="location_warning_message">"Tillåt AutoNavi's platstjänst att samla in information om din position. Viss information kan spares på din enhet, och samlas in även när inga appear körs. Kostnad för mobildsts kan tillkomma under denna process."</string>
   <string name="location_warning_title">Plats medgivande</string>
 </resources>
