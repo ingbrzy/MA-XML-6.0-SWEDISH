@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-     <string name="app_label">Search Applications Provider</string>
-     <string name="application_desc">Application</string>
-     <string name="search_empty">Žiadna zhoda</string>
-     <string name="search_label">Apps</string>
-     <string name="settings_description">Names of installed applications</string>
+  <string name="app_label">Search Applications Provider</string>
+  <string name="application_desc">Application</string>
+  <string name="search_empty">Žiadna zhoda</string>
+  <string name="search_label">Apps</string>
+  <string name="settings_description">Names of installed applications</string>
 </resources>
