@@ -129,20 +129,20 @@
   <string name="mark_meal">Utkörning</string>
   <string name="mark_meal_block">Markerad som Utkörning</string>
   <string name="mark_number_info">"
-Note that sometimes these calls maybe useful (e.g. when you're actually looking for an apartment). Only block numbers which you never want to receive calls from."</string>
-  <string name="mark_sell">Telemarketer</string>
-  <string name="mark_sell_block">Marked as telemarketer</string>
-  <string name="marked_by_others">"%d other users marked it as "</string>
-  <string name="marked_by_user">"you marked it as "</string>
+Observera att ibland dessa samtal kan vara användbara (t ex när du faktiskt letar efter en lägenhet). Endast blocknummer som du aldrig vill ta emot samtal från."</string>
+  <string name="mark_sell">Telemark</string>
+  <string name="mark_sell_block">Markerad som telefonförsäljare</string>
+  <string name="marked_by_others">"%d andra användare markerade det som "</string>
+  <string name="marked_by_user">"du markerat det som "</string>
   <string name="menu_add">Add</string>
-  <string name="menu_add_into_contact">Add to existing contact</string>
-  <string name="menu_add_new_contact">New contact</string>
-  <string name="menu_bl_add_contact">Contacts</string>
-  <string name="menu_bl_add_manual">Add</string>
-  <string name="menu_bl_call_log">View blocked calls</string>
-  <string name="menu_bl_clear">Clear blocklist</string>
-  <string name="menu_bl_remove">Unblock</string>
-  <string name="menu_bl_sms_log">View blocked SMS</string>
+  <string name="menu_add_into_contact">Lägg till i befintlig kontakt</string>
+  <string name="menu_add_new_contact">Ny kontakt</string>
+  <string name="menu_bl_add_contact">Kontakter</string>
+  <string name="menu_bl_add_manual">Lägg</string>
+  <string name="menu_bl_call_log">Visa blockerade samtal</string>
+  <string name="menu_bl_clear">Rensa blocklist</string>
+  <string name="menu_bl_remove">Avblockera</string>
+  <string name="menu_bl_sms_log">Visa blockerade SMS</string>
   <string name="menu_call">Dial</string>
   <string name="menu_clear_all_call">Clear blocked calls</string>
   <string name="menu_clear_all_sms">Delete blocked SMS</string>
