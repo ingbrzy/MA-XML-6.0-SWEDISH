@@ -29,18 +29,6 @@
         <item quantity="other">%d apps can read notifications</item>
         <item quantity="one">%d app can read notifications</item>
      </plurals>
-     <plurals name="power_center_battery_day">
-        <item quantity="other">"%ddní "</item>
-        <item quantity="one">"%ddeň "</item>
-     </plurals>
-     <plurals name="power_center_battery_hour">
-        <item quantity="other">"%dh "</item>
-        <item quantity="one">"%dh "</item>
-     </plurals>
-     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%dmin "</item>
-        <item quantity="one">"%dmin "</item>
-     </plurals>
      <plurals name="print_search_result_count_utterance">
         <item quantity="other">%1$s printers found</item>
         <item quantity="one">%1$s printer found</item>

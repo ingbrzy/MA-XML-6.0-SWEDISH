@@ -9,6 +9,23 @@
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
      </string-array>
+     <string-array name="bookmarks_cu_customization">
+        <item>沃门户</item>
+        <item>http://www.wo.com.cn</item>
+     </string-array>
+     <string-array name="dianping">
+        <item>团购</item>
+        <item>dianping.com</item>
+        <item>http://developer.dianping.com/favicon.ico</item>
+        <item>http://m.dianping.com/shoplist/2/kw/{searchTerms}/search</item>
+        <item>UTF-8</item>
+        <item>http://suggestion.baidu.com/su?p=3&amp;wd={searchTerms}</item>
+     </string-array>
+     <string-array name="dianping_in_list">
+        <item>search_dianping</item>
+        <item>ic_search_engine_dianping</item>
+        <item>dianping</item>
+     </string-array>
      <string-array name="google">
         <item>Google</item>
         <item>google.com</item>
@@ -25,6 +42,12 @@
         <item>Green</item>
         <item>Blue</item>
      </string-array>
+     <string-array name="pre_webapp_text_sizes">
+        <item>Larger</item>
+        <item>Large</item>
+        <item>Normal</item>
+        <item>Small</item>
+     </string-array>
      <string-array name="pref_content_plugins_choices">
         <item>Always on</item>
         <item>Ask me first</item>
@@ -34,6 +57,16 @@
         <item>Never</item>
         <item>Only on WLAN</item>
         <item>Always</item>
+     </string-array>
+     <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+        <item>Korean (EUC-KR)</item>
      </string-array>
      <string-array name="pref_default_zoom_choices">
         <item>Small</item>
@@ -72,6 +105,12 @@
         <item>Large</item>
         <item>Huge</item>
      </string-array>
+     <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+     </string-array>
      <string-array name="pref_video_preload_choices">
         <item>Never</item>
         <item>Only on WLAN</item>
@@ -80,6 +119,11 @@
      <string-array name="pref_volume_key_choices">
         <item>Previous page/Next page</item>
         <item>Previous tab/Next tab</item>
+     </string-array>
+     <string-array name="search_bar_search_engines_default">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
      </string-array>
      <string-array name="search_bar_search_engines_rCN">
         <item>baidu</item>
@@ -91,6 +135,11 @@
         <item>google</item>
         <item>shipin</item>
         <item>tupian</item>
+     </string-array>
+     <string-array name="search_engines_default">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
      </string-array>
      <string-array name="search_engines_rCN">
         <item>baidu</item>

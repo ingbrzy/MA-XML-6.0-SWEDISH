@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="click_type_array">
+     <string-array name="category_array">
+        <item>@string/category_0</item>
+        <item>@string/category_1</item>
+        <item>@string/category_2</item>
+     </string-array>
+     <string-array name="click_type_array">
         <item>@string/click_type_0</item>
         <item>@string/click_type_1</item>
         <item>@string/click_type_2</item>
@@ -12,19 +18,14 @@
         <item>@string/click_type_8</item>
         <item>@string/click_type_9</item>
         <item>@string/click_type_10</item>
-    </string-array>
-    <string-array name="category_array">
-        <item>@string/category_0</item>
-        <item>@string/category_1</item>
-        <item>@string/category_2</item>
-    </string-array>
-    <string-array name="direction_array">
+     </string-array>
+     <string-array name="direction_array">
         <item>@string/key_direction_up</item>
         <item>@string/key_direction_down</item>
         <item>@string/key_direction_left</item>
         <item>@string/key_direction_right</item>
-    </string-array>
-    <string-array name="setting_infos">
+     </string-array>
+     <string-array name="setting_infos">
         <item>.Speed</item>
         <item>.CaptureInstant</item>
         <item>.Vibrate</item>
@@ -35,5 +36,9 @@
         <item>.TestUser</item>
         <item>.About</item>
         <item>.SilentMode</item>
-    </string-array>
+     </string-array>
+     <string-array name="vol_array">
+        <item>@string/action_key_vol_up</item>
+        <item>@string/action_key_vol_down</item>
+     </string-array>
 </resources>

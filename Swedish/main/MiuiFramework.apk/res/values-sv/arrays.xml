@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="screen_key_long_press_default_action">
-        <item>voice_assistant</item>
-        <item>none</item>
-        <item>none</item>
-        <item>show_menu</item>
-    </string-array>
-    <item type="array" name="android_config_keyboardTapVibePattern">@android:array/config_keyboardTapVibePattern</item>
-    <item type="array" name="android_config_longPressVibePattern">@android:array/config_longPressVibePattern</item>
-    <item type="array" name="android_config_virtualKeyVibePattern">@android:array/config_virtualKeyVibePattern</item>
-    <item type="array" name="android_special_locale_codes">@android:array/special_locale_codes</item>
-    <item type="array" name="android_special_locale_names">@android:array/special_locale_names</item>
-    <item type="array" name="android_config_mobile_hotspot_provision_app">@android:array/config_mobile_hotspot_provision_app</item>
-    <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
-    <string-array name="miui_font_scale">
-        <item>1.0</item>
-        <item>1.0</item>
-        <item>1.0</item>
-        <item>1.17</item>
-    </string-array>
-    <string-array name="font_size_scale">
-        <item>0.86</item>
-        <item>1.0</item>
-        <item>1.2</item>
-        <item>1.21</item>
-    </string-array>
-    <array name="config_virtualKeyUpPattern" />
-    <string-array name="tian_gan">
-        <item>甲</item>
-        <item>乙</item>
-        <item>丙</item>
-        <item>丁</item>
-        <item>戊</item>
-        <item>己</item>
-        <item>庚</item>
-        <item>辛</item>
-        <item>壬</item>
-        <item>癸</item>
-    </string-array>
-    <string-array name="di_zhi">
+     <string-array name="di_zhi">
         <item>子</item>
         <item>丑</item>
         <item>寅</item>
@@ -51,8 +14,36 @@
         <item>酉</item>
         <item>戌</item>
         <item>亥</item>
-    </string-array>
-    <string-array name="jia_zi">
+     </string-array>
+     <string-array name="float_notification_whitelist">
+        <item>cn.com.fetion</item>
+        <item>com.google.android.talk</item>
+        <item>com.tencent.mm</item>
+        <item>com.tencent.qq</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.xiaomi.channel</item>
+        <item>com.android.calendar</item>
+        <item>com.android.phone</item>
+        <item>com.android.mms</item>
+        <item>com.immomo.momo</item>
+        <item>com.google.android.gm</item>
+        <item>com.android.email</item>
+        <item>android</item>
+        <item>com.android.providers.downloads.ui</item>
+        <item>com.miui.securitycenter</item>
+        <item>com.android.updater</item>
+        <item>com.android.settings</item>
+        <item>com.android.bluetooth</item>
+        <item>com.whatsapp</item>
+        <item>com.jeejen.family.miui</item>
+     </string-array>
+     <string-array name="font_size_scale">
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.21</item>
+     </string-array>
+     <string-array name="jia_zi">
         <item>甲子</item>
         <item>乙丑</item>
         <item>丙寅</item>
@@ -113,27 +104,8 @@
         <item>辛酉</item>
         <item>壬戌</item>
         <item>癸亥</item>
-    </string-array>
-    <string-array name="mobile_operator_numeric_values">
-        <item>46000</item>
-        <item>46001</item>
-        <item>46002</item>
-        <item>46003</item>
-        <item>46005</item>
-        <item>46006</item>
-        <item>46007</item>
-        <item>46009</item>
-        <item>46011</item>
-        <item>46601</item>
-        <item>46605</item>
-        <item>46689</item>
-        <item>46692</item>
-        <item>46697</item>
-        <item>阿里通信</item>
-        <item>中麦通信</item>
-        <item>分享通信</item>
-    </string-array>
-    <string-array name="mobile_operator_display_names">
+     </string-array>
+     <string-array name="mobile_operator_display_names">
         <item>China Mobile</item>
         <item>China Unicom</item>
         <item>China Mobile</item>
@@ -151,8 +123,8 @@
         <item>Alibaba</item>
         <item>China Mcom</item>
         <item>SOSHARE MOBILE</item>
-    </string-array>
-    <string-array name="mobile_operator_numeric_equivalencies">
+     </string-array>
+     <string-array name="mobile_operator_numeric_equivalencies">
         <item>46000</item>
         <item>46001</item>
         <item>46000</item>
@@ -170,20 +142,45 @@
         <item>46001</item>
         <item>46001</item>
         <item>46002</item>
-    </string-array>
-    <array name="vibration_virtual_key_up" />
-    <integer-array name="vibration_recorder_minor_action">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-    </integer-array>
-    <integer-array name="vibration_recorder_major_action">
+     </string-array>
+     <string-array name="mobile_operator_numeric_values">
+        <item>46000</item>
+        <item>46001</item>
+        <item>46002</item>
+        <item>46003</item>
+        <item>46005</item>
+        <item>46006</item>
+        <item>46007</item>
+        <item>46009</item>
+        <item>46011</item>
+        <item>46601</item>
+        <item>46605</item>
+        <item>46689</item>
+        <item>46692</item>
+        <item>46697</item>
+        <item>阿里通信</item>
+        <item>中麦通信</item>
+        <item>分享通信</item>
+     </string-array>
+     <string-array name="screen_key_long_press_default_action">
+        <item>voice_assistant</item>
+        <item>none</item>
+        <item>none</item>
+        <item>show_menu</item>
+     </string-array>
+     <string-array name="tian_gan">
+        <item>甲</item>
+        <item>乙</item>
+        <item>丙</item>
+        <item>丁</item>
+        <item>戊</item>
+        <item>己</item>
+        <item>庚</item>
+        <item>辛</item>
+        <item>壬</item>
+        <item>癸</item>
+     </string-array>
+     <integer-array name="vibration_recorder_major_action">
         <item>0</item>
         <item>0</item>
         <item>5</item>
@@ -219,8 +216,19 @@
         <item>5</item>
         <item>0</item>
         <item>5</item>
-    </integer-array>
-    <integer-array name="vibration_recorder_rewind">
+     </integer-array>
+     <integer-array name="vibration_recorder_minor_action">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+     </integer-array>
+     <integer-array name="vibration_recorder_rewind">
         <item>0</item>
         <item>0</item>
         <item>5</item>
@@ -294,8 +302,8 @@
         <item>5</item>
         <item>0</item>
         <item>10</item>
-    </integer-array>
-    <integer-array name="vibration_recorder_slider">
+     </integer-array>
+     <integer-array name="vibration_recorder_slider">
         <item>0</item>
         <item>0</item>
         <item>5</item>
@@ -311,8 +319,19 @@
         <item>5</item>
         <item>0</item>
         <item>5</item>
-    </integer-array>
-    <integer-array name="vibration_torch_on">
+     </integer-array>
+     <integer-array name="vibration_torch_off">
+        <item>0</item>
+        <item>0</item>
+        <item>5</item>
+        <item>120</item>
+        <item>8</item>
+        <item>-5</item>
+        <item>5</item>
+        <item>0</item>
+        <item>5</item>
+     </integer-array>
+     <integer-array name="vibration_torch_on">
         <item>0</item>
         <item>0</item>
         <item>5</item>
@@ -328,17 +347,5 @@
         <item>5</item>
         <item>0</item>
         <item>5</item>
-    </integer-array>
-    <integer-array name="vibration_torch_off">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-    </integer-array>
-    <array name="boot_msg_text" />
+     </integer-array>
 </resources>
